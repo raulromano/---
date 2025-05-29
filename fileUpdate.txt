@@ -1,2 +1,3 @@
 bin/alumadev.com.br.txt
+bin/alumadev.com.br2.txt
 bin/FileTropienor.txt
